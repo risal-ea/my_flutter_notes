@@ -1,8 +1,11 @@
 
 # My Flutter notes
 
+## Topics
 
+ - [Remove debug banner](#Remove-debug-banner)
 
+## Remove debug banner
 
 ## Remove debug banner
 
