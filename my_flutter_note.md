@@ -37,6 +37,7 @@ void main() {
 
 - In macOS, press ` Cmd + Option + L.`
 - In Windows and Linux, press ` Ctrl + Alt + L.`
-(For to automatically format the code u shoud add ` , ` after the ` )`.)
 
+(For to automatically format the code u shoud add ` , ` after the ` )`.)
+[Flutter Doc](https://docs.flutter.dev/tools/formatting)
 
