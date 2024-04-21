@@ -4,8 +4,7 @@
 ## Topics
 
  - [Remove debug banner](#Remove-debug-banner)
-
-## Remove debug banner
+ - [Automatically formatting code ](#Automatically-formatting-code )
 
 ## Remove debug banner
 
@@ -30,6 +29,13 @@ void main() {
     ),
   );
 }
-}
 ```
+
+## Automatically formatting code 
+
+#### Automatically formatting code in Android Studio and IntelliJ
+
+- In macOS, press ` Cmd + Option + L.`
+- In Windows and Linux, press ` Ctrl + Alt + L.`
+
 
